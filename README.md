@@ -1,4 +1,4 @@
-<img src="showcase.png" height="750em" />
+<img src="showcase.png" width="750em" />
 
 <!--
 ### Hi there 👋
